@@ -139,8 +139,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Thank you for visiting my website"
-    subtitle = "The goal of this web page is to share with you my knowledge of R and the analysis I performed on a number of subjects."
-    
+    subtitle = "The goal of this web page is to share with you my knowledge of R "
     buttonText = "My Projects"
     url = "blogs"
 
